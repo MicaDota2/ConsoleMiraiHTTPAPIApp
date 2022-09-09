@@ -1,2 +1,3 @@
 # ConsoleMiraiHTTPAPIApp
 dota2战绩追踪机器人插件
+代码整理和清理后会公开，目前还在测试和调试中
